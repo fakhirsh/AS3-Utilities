@@ -1,0 +1,8 @@
+
+Order of renaming matters: (since I am doing it manually)
+
+
+Main_SourceEncryptedSWF	---->	;;;;;;;;;;;;;;;;;;;;;;;
+Main					---->	;;;;
+Preloader				---->	;;;;;;;;;
+DecryptionWorker		---->	;;;;;;;;;;;;;;;;
